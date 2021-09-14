@@ -3,115 +3,116 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
-(
-  module.exports = {
-    title: "JS in FM",
-    tagline: "Build Awesome Widgets for your FileMaker Apps",
-    url: "https://your-docusaurus-test-site.com",
-    baseUrl: "/",
-    onBrokenLinks: "throw",
-    onBrokenMarkdownLinks: "warn",
-    favicon: "img/favicon.ico",
-    organizationName: "jlbmagic", // Usually your GitHub org/user name.
-    projectName: "js-in-fm", // Usually your repo name.
+module.exports = {
+  title: "JS in FM",
+  tagline: "Build Awesome Widgets for your FileMaker Apps",
+  url: "https://your-docusaurus-test-site.com",
+  baseUrl: "/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/favicon.ico",
+  organizationName: "jlbmagic", // Usually your GitHub org/user name.
+  projectName: "js-in-fm", // Usually your repo name.
 
-    presets: [
-      [
-        "@docusaurus/preset-classic",
-        /** @type {import('@docusaurus/preset-classic').Options} */
-        ({
-          docs: {
-            sidebarPath: require.resolve("./sidebars.js"),
-            // Please change this to your repo.
-            editUrl:
-              "https://github.com/facebook/docusaurus/edit/main/website/",
-          },
-          blog: {
-            showReadingTime: true,
-            // Please change this to your repo.
-            editUrl:
-              "https://github.com/facebook/docusaurus/edit/main/website/blog/",
-          },
-          theme: {
-            customCss: require.resolve("./src/css/custom.css"),
-          },
-        }),
-      ],
-    ],
-
-    themeConfig:
-      /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+  presets: [
+    [
+      "@docusaurus/preset-classic",
+      /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        navbar: {
-          title: "JS in FM",
-          logo: {
-            alt: "My Site Logo",
-            src: "img/JSinFM.svg",
-          },
-          items: [
-            {
-              type: "doc",
-              docId: "intro",
-              position: "left",
-              label: "Tutorial",
-            },
-            { to: "/blog", label: "Blog", position: "left" },
-            {
-              href: "https://github.com/facebook/docusaurus",
-              label: "GitHub",
-              position: "right",
-            },
-          ],
+        docs: {
+          sidebarPath: require.resolve("./sidebars.js"),
+          // Please change this to your repo.
+          editUrl: "https://github.com/jlbmagic/js-in-fm",
         },
-        footer: {
-          style: "dark",
-          links: [
-            {
-              title: "Docs",
-              items: [
-                {
-                  label: "Tutorial",
-                  to: "/docs/intro",
-                },
-              ],
-            },
-            {
-              title: "Community",
-              items: [
-                {
-                  label: "Stack Overflow",
-                  href: "https://stackoverflow.com/questions/tagged/docusaurus",
-                },
-                {
-                  label: "Discord",
-                  href: "https://discordapp.com/invite/docusaurus",
-                },
-                {
-                  label: "Twitter",
-                  href: "https://twitter.com/docusaurus",
-                },
-              ],
-            },
-            {
-              title: "More",
-              items: [
-                {
-                  label: "Blog",
-                  to: "/blog",
-                },
-                {
-                  label: "GitHub",
-                  href: "https://github.com/facebook/docusaurus",
-                },
-              ],
-            },
-          ],
-          copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        blog: {
+          showReadingTime: true,
+          // Please change this to your repo.
+          editUrl:
+            "https://github.com/facebook/docusaurus/edit/main/website/blog/",
         },
-        prism: {
-          theme: lightCodeTheme,
-          darkTheme: darkCodeTheme,
+        theme: {
+          customCss: require.resolve("./src/css/custom.css"),
         },
       }),
-  }
-);
+    ],
+  ],
+
+  themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    ({
+      navbar: {
+        title: "JS in FM",
+        logo: {
+          alt: "My Site Logo",
+          src: "img/JSinFM.svg",
+        },
+        items: [
+          {
+            to: "/docs/js-dev-env/intro",
+            position: "left",
+            label: "JS Dev Environment",
+          },
+          {
+            to: "/docs/js-learning-path/intro",
+            position: "left",
+            label: "JS Learning Path",
+          },
+          { to: "/blog", label: "Blog", position: "left" },
+          {
+            href: "https://github.com/jlbmagic/js-in-fm",
+            label: "GitHub",
+            position: "right",
+          },
+        ],
+      },
+      footer: {
+        style: "dark",
+        links: [
+          // {
+          //   title: "Docs",
+          //   items: [
+          //     {
+          //       label: "JS Dev Environment",
+          //       to: "/docs/js-dev-env/intro",
+          //     },
+          //   ],
+          // },
+          // {
+          //   title: "Community",
+          //   items: [
+          //     {
+          //       label: "Stack Overflow",
+          //       href: "https://stackoverflow.com/questions/tagged/docusaurus",
+          //     },
+          //     {
+          //       label: "Discord",
+          //       href: "https://discordapp.com/invite/docusaurus",
+          //     },
+          //     {
+          //       label: "Twitter",
+          //       href: "https://twitter.com/docusaurus",
+          //     },
+          //   ],
+          // },
+          // {
+          //   title: "More",
+          //   items: [
+          //     {
+          //       label: "Blog",
+          //       to: "/blog",
+          //     },
+          //     {
+          //       label: "GitHub",
+          //       href: "https://github.com/facebook/docusaurus",
+          //     },
+          //   ],
+          // },
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} JS in FM`,
+      },
+      prism: {
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
+      },
+    }),
+};
