@@ -48,21 +48,26 @@ module.exports = {
         },
         items: [
           {
-            to: "/docs/js-dev-env/intro",
+            to: "/docs/intro",
             position: "left",
+            label: "JS in FM Intro",
+          },
+          { to: "/blog", label: "Blog", position: "left" },
+          {
+            to: "/docs/js-dev-env/intro",
+            position: "right",
             label: "JS Dev Environment",
           },
           {
             to: "/docs/js-learning-path/intro",
-            position: "left",
+            position: "right",
             label: "JS Learning Path",
           },
-          { to: "/blog", label: "Blog", position: "left" },
-          {
-            href: "https://github.com/jlbmagic/js-in-fm",
-            label: "GitHub",
-            position: "right",
-          },
+          // {
+          //   href: "https://github.com/jlbmagic/js-in-fm",
+          //   label: "GitHub",
+          //   position: "right",
+          // },
         ],
       },
       footer: {
