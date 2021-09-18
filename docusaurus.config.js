@@ -4,7 +4,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "JS in FM",
+  title: "JS in FM!",
   tagline: "Build Awesome Widgets for your FileMaker Apps",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
@@ -48,26 +48,24 @@ module.exports = {
         },
         items: [
           {
-            to: "/docs/intro",
+            type: "doc",
+            docId: "intro/intro",
             position: "left",
             label: "JS in FM Intro",
           },
-          { to: "/blog", label: "Blog", position: "left" },
           {
-            to: "/docs/js-dev-env/intro",
-            position: "right",
+            type: "doc",
+            docId: "js-dev-env/intro",
+            position: "left",
             label: "JS Dev Environment",
           },
           {
-            to: "/docs/js-learning-path/intro",
-            position: "right",
+            type: "doc",
+            docId: "js-learning-path/intro",
+            position: "left",
             label: "JS Learning Path",
           },
-          // {
-          //   href: "https://github.com/jlbmagic/js-in-fm",
-          //   label: "GitHub",
-          //   position: "right",
-          // },
+          { to: "/blog", label: "Blog", position: "left" },
         ],
       },
       footer: {
