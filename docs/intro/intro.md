@@ -19,12 +19,12 @@ There's a lot to know about JavaScript, and we FileMaker developers might not ha
 Behold, the learning path. Yes, it's small. Don't worry, the documentation provides a larger view with many more details.
 ![JS_Dev_Environment](/img/JS_learningPath_MM.png)
 
-Check out the module's documentation [here](js-learning-path/intro).
+Check out the module's documentation [here](/docs/js-learning-path/intro).
 ## JS Dev Environment
 
 The JavaScript Development Environment is the place to develop, render, and deploy JavaScript widgets. Here you'll be able to see what your widget looks like inside FileMaker and see how it interacts with the data.
 ![JS_Dev_Environment](/img/JS_Dev_Explain.png)
-Check out the module's documentation [here](js-dev-env/intro).
+Check out the module's documentation [here](/docs/js-dev-env/intro).
 
 
 
