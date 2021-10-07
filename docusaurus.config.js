@@ -27,8 +27,7 @@ module.exports = {
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/main/website/blog/",
+          editUrl: "https://github.com/jlbmagic/js-in-fm",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
