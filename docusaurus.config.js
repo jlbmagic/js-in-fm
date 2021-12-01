@@ -6,12 +6,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "JS in FM!",
   tagline: "Build Awesome Widgets for your FileMaker Apps",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://jsinfm.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "jlbmagic", // Usually your GitHub org/user name.
+  organizationName: "Integrating Magic", // Usually your GitHub org/user name.
   projectName: "js-in-fm", // Usually your repo name.
 
   presets: [
@@ -26,9 +26,15 @@ module.exports = {
         },
         blog: {
           showReadingTime: true,
+          feedOptions: {
+            type: 'all',
+            title: "A Blog about JS in FM from Jeremy Brown",
+            description: "In which I talk about what's on my mind in terms of business creation and JS in FM and Claris FileMaker in general",
+            copyright: `Copyright © ${new Date().getFullYear()} Integrating Magic LLC`,
+          },
           // Please change this to your repo.
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/main/website/blog/",
+          // editUrl:
+          //   "https://github.com/facebook/docusaurus/edit/main/website/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

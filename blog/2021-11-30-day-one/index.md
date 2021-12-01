@@ -12,8 +12,10 @@ Today was my first day really on my own as a new company. The transition from em
 
 I really didn’t sleep much the previous night, and I woke up with rambling thoughts in my head. I really hoped I hadn’t made any sort of mistake. I was feeling quite worried. However, I got dressed and began the day. 
 
-Before starting the morning routine, I laid down on the freshly made bed. My third dog (I have three dogs and one foster), the quietest, gentlest, and most sensitive one, hopped up on the bed and came near me. As I closed my eyes and pondered life’s biggest choices and possible mistakes, I felt a touch on my chest. She had settled next to me and laid her face on me. I think she knew I needed that. And I did.
+Before starting the morning routine, I laid down on the freshly made bed. My third dog (I have three dogs and one foster), the quietest, gentlest, and most sensitive one, hopped up on the bed and came near me. As I closed my eyes and pondered life’s biggest choices and possible mistakes, I felt a touch on my chest. She had settled next to me and laid her face on me. I think she knew I needed that. She was correct.
+
 ![Honey](./honey.jpeg)
+
 After that brief meditation, I got up and walked the other two dogs in the cold Florida morning. The walk too was mind-clearing and uplifting. 
 
 While listening to a podcast and dealing with dogs sniffing, I heard a commercial for [BetterHelp](https://www.betterhelp.com/). The commercial mentioned “life changes”. While walking the last stretch with the pups, I had the sudden desire to sign up. I might just give it a try. Talk with someone. We’ll see.
