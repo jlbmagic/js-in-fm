@@ -10,7 +10,7 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/logo.svg",
   organizationName: "Integrating Magic", // Usually your GitHub org/user name.
   projectName: "js-in-fm", // Usually your repo name.
 
