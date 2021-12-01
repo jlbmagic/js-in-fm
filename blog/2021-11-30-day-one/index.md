@@ -1,5 +1,5 @@
 ---
-slug: day-one
+slug: ./index.md
 title: Day One
 description: Starting a company is not easy. Day one is especially precarious. In this post Jeremy describes his thoughts and feelings, and he shares his methods of handling it.
 authors: jb
