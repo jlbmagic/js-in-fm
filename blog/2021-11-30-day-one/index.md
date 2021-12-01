@@ -1,16 +1,17 @@
 ---
 slug: Day One
 title: Day One
+description: What did I just do?
 authors: jb
 tags: [integrating magic, business, what am i doing]
 ---
 
-
+## What did I just do?
 Today was my first day really on my own as a new company. The transition from employed elsewhere to here happened so fast. But I’ve survived day one. Let me tell you about it.
 
 I really didn’t sleep much the previous night, and I woke up with rambling thoughts in my head. I really hoped I hadn’t made any sort of mistake. I was feeling quite worried. However, I got dressed and began the day. 
 
-Before starting the morning routine, I laid down on the freshly made bed. My third dog (I have three dogs and one foster), the quietest, gentlest, and most sensitive one, hopped up on the bed and came near me. As I closed my eyes and pondered life’s biggest choices and possibly mistakes, I felt a touch on my chest. She had settled next to me and laid her face on me. I think she knew I needed that. And I did.
+Before starting the morning routine, I laid down on the freshly made bed. My third dog (I have three dogs and one foster), the quietest, gentlest, and most sensitive one, hopped up on the bed and came near me. As I closed my eyes and pondered life’s biggest choices and possible mistakes, I felt a touch on my chest. She had settled next to me and laid her face on me. I think she knew I needed that. And I did.
 ![Honey](./honey.jpeg)
 After that brief meditation, I got up and walked the other two dogs in the cold Florida morning. The walk too was mind-clearing and uplifting. 
 
