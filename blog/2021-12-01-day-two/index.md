@@ -1,6 +1,7 @@
 ---
 slug: day-two
 title: Day Two
+draft: true
 description: Day two is starting nicely. Here are my thoughts.
 authors: jb
 image: ./day-one.png
