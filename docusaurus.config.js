@@ -26,8 +26,8 @@ module.exports = {
         },
         blog: {
           
-          path: './blog',
-          routeBasePath: '/', // Set this value to '/'.
+          // path: './blog',
+          // routeBasePath: '/', // Set this value to '/'.
           showReadingTime: true,
           feedOptions: {
             
