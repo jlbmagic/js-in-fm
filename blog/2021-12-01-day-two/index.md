@@ -24,7 +24,7 @@ Once I dropped her off at the vet, I began the day. Sticking with a pattern, I c
 
 The time was well spent, however, when I did get to focus on the work. I learned a lot about services that provide email listserv services. I also researched banks good for small businesses. I think I have settled on Novo, for now anyway.
 
-I realized midway through the day that a day not spent in FileMaker or JS was a day I wasn’t bringing in income. That thought bothered me a bit. I realized, however, that I need a business and all the appropriate pieces in place to be able to focus on FileMaker and JS. So I kept picking away at my list.
+I realized midway through the day that a day not spent in FileMaker or JS was a day I wasn’t bringing in income. That thought bothered me a bit. After considering it a bit, I settled on the idea that I need a business and all the appropriate pieces in place to be able to focus on FileMaker and JS. So I kept picking away at my list.
 
 I did get to talk with a few potential clients. I hope those workout and I can build an API for one and a JS widget for another. 
 

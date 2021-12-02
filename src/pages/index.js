@@ -28,6 +28,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <h1>This is the detail about JS in FM</h1>
+        {/* <a href="./static/downloads/Heebo.zip">Download</a> */}
       </main>
     </Layout>
   );
