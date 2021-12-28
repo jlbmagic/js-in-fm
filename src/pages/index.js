@@ -25,11 +25,10 @@ export default function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />"
     >
-      <HomepageHeader />
-      <main>
-        <h1>This is the detail about JS in FM</h1>
-        {/* <a href="./static/downloads/Heebo.zip">Download</a> */}
-      </main>
+      <>
+        <HomepageHeader />
+        <HomepageFeatures />
+      </>
     </Layout>
   );
 }

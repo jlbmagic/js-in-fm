@@ -4,32 +4,38 @@ import styles from "./HomepageFeatures.module.css";
 
 const FeatureList = [
   {
-    title: "Easy to Use",
-    Svg: require("../../static/img/undraw_docusaurus_mountain.svg").default,
+    title: "The Learning Path",
+    Svg: require("../../static/img/learning.svg").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        You don't need to know all of JavaScript to use the language in Claris
+        FileMaker Pro. This learning path describes what you can learn first to
+        do great things in your apps.
       </>
     ),
   },
   {
-    title: "Focus on What Matters",
-    Svg: require("../../static/img/undraw_docusaurus_tree.svg").default,
+    title: "A Great Development Environment",
+    Svg: require("../../static/img/development.svg").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Writing JS for FileMaker used to be challenging. Now, it's easy. This
+        environment provides all you need to <strong>develop</strong> a widget,
+        <strong> render</strong> it in FileMaker, and <strong>deploy</strong> it
+        to your apps.
       </>
     ),
   },
   {
-    title: "Powered by React",
-    Svg: require("../../static/img/undraw_docusaurus_react.svg").default,
+    title: "Awesome Examples & Support",
+    Svg: require("../../static/img/community.svg").default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        These pages show a lot of great examples. Get involved in the
+        <a href="https://community.jsinfm.com/home" target="_blank">
+          community
+        </a>
+        and see even more and learn from each other.
       </>
     ),
   },
@@ -41,7 +47,7 @@ function Feature({ Svg, title, description }) {
       <div className="text--center">
         <Svg className={styles.featureSvg} alt={title} />
       </div>
-      <div className="text--center padding-horiz--md">
+      <div className="text--center padding-horiz--sm">
         <h3>{title}</h3>
         <p>{description}</p>
       </div>
