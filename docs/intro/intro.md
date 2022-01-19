@@ -16,7 +16,9 @@ Check out these modules. All the information, the steps and guides, on how to do
 There's a lot to know about JavaScript, and we FileMaker developers might not have all that time, and the scope of learning seems a bit overwhelming. But fear not, we've put together a nice learning path that describes what you can learn in JS to get you working with it quickly in FileMaker (preferabbly in the JS Dev Environment :))
 
 Behold, the learning path. Yes, it's small. Don't worry, the documentation provides a larger view with many more details.
-![JS_Dev_Environment](/img/JS_learningPath_MM.png) Download the image [here](/img/JSPath-Large.jpeg)
+![JS_Dev_Environment](/img/JSPath-Large.jpeg)
+
+Download the image [here](/static/img/JSPath-Large.jpeg)
 
 Check out the module's documentation [here](/docs/js-learning-path/intro).
 
