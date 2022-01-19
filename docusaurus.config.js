@@ -22,20 +22,19 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/jlbmagic/js-in-fm/edit/master",
+          // editUrl: "https://github.com/jlbmagic/js-in-fm/edit/master",
         },
         blog: {
-          
           // path: './blog',
           // routeBasePath: '/', // Set this value to '/'.
           showReadingTime: true,
           feedOptions: {
-            
-            type: 'all',
+            type: "all",
             title: "A Blog about JS in FM from Jeremy Brown",
-            description: "In which I talk about what's on my mind in terms of business creation and JS in FM and Claris FileMaker in general",
+            description:
+              "In which I talk about what's on my mind in terms of business creation and JS in FM and Claris FileMaker in general",
             copyright: `Copyright © ${new Date().getFullYear()} Integrating Magic LLC`,
-            language:undefined,
+            language: undefined,
           },
           // Please change this to your repo.
           // editUrl:
