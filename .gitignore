@@ -5,8 +5,8 @@
 /build
 
 # Generated files
-.docusaurus
-.cache-loader
+.next
+.swc
 
 # Misc
 .DS_Store
