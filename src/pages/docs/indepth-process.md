@@ -26,7 +26,6 @@ Let that process run after clicking the green button at the bottom. Once you do 
 ## Clone to Your Machine
 
 Next, we need to clone the repository. That is, we need to get all the code down from GitHub to your local machine will keeping a link between the local and remote. To do that, click on the "Code" button and click the clipboard icon. We'll use that copied URL in the next section.
-![Step Two](/img/Clone.png)
 
 Let's do some work now in Terminal (keeping that copied URL in mind).
 
