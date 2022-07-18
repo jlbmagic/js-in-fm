@@ -8,7 +8,7 @@ As you develop your code in VSCode, you can see exactly how the code will render
 ## View your bugs
 
 Inevitably you'll have bugs in your code. As we do development, and as the code is loaded into the web viewer, the console of the web viewer will display those errors. Be sure to enbable that. Here's a great blog post on what to do from Beezwax: [How to enable WebKit and JavaScript debugging in FileMaker Web Viewers](https://blog.beezwax.net/how-to-enable-webkit-and-javascript-debugging-in-filemaker-web-viewers/)
-![The web viewer console](/img/Console.png)
+![The web viewer console](https://im-js-in-fm-images.s3.amazonaws.com/Console.png)
 
 Here's how to do this:
 

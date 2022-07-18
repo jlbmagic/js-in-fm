@@ -18,10 +18,10 @@ Here's how to do this:
    - This process will ask you to save the repository to your own Github account. Fill in the relevant information (see [here](intro/misc/what-is-repo.mdx) for more details), and then let the process work.
 
 First, fill out the information here. There's no spaces in a repo, name, so use camel case or hypens (I prefer the latter for repo names).
-![StepZero](/img/StepZero.png)
+![StepZero](https://im-js-in-fm-images.s3.amazonaws.com/StepZero.png)
 
 Let that process run after clicking the green button at the bottom. Once you do that, you'll be presented with this repository on your GitHub account.
-![StepOne](/img/stepOne.png)
+![StepOne](https://im-js-in-fm-images.s3.amazonaws.com/stepOne.png)
 
 ## Clone to Your Machine
 
@@ -47,7 +47,7 @@ Here's what to do:
      - When this finishes, run the `git clone` command again.
 
 And here is the repsitory on my machine.
-![Step Two](/img/InFolder.png)
+![Step Two](https://im-js-in-fm-images.s3.amazonaws.com/InFolder.png)
 
 ## Reveal the Environment
 
@@ -58,10 +58,10 @@ Now that we have the repository cloned to our local machine, we can open it in V
 3. Navigate to where the repository folder is located.
 4. Select the folder name.
 5. Click "Open".
-   ![Step Two](/img/SelectRepo.png)
+   ![Step Two](https://im-js-in-fm-images.s3.amazonaws.com/SelectRepo.png)
 
 And now you are inside the enviornment.
-![Step Two](/img/InEnv.png)
+![Step Two](https://im-js-in-fm-images.s3.amazonaws.com/InEnv.png)
 
 ## Install the Environment
 
@@ -71,7 +71,7 @@ Now that the environment has been revealed, we need to install it on our machine
 2. Type `npm install`.
    - This command will download all the dependencies from the `package.json` file. It takes a few minutes. A few `WARN` notes might show up in the terminal. That's fine. There's nothing that will break in this version.
 
-![Package JSON](/img/packageFile.png)
+![Package JSON](https://im-js-in-fm-images.s3.amazonaws.com/packageFile.png)
 Now, the enviornment is installed. We can now start it up (one more step) and then use it.
 
 ## Start up the Development Server
@@ -81,6 +81,6 @@ For this to work, we need to run a development server. So, in the terminal, let'
 1. Compile the files together, building them into a `index.html` file.
 2. Serve this file to the URL `localhost:1234`.
 
-![Package JSON](/img/npmStart.png)
+![Package JSON](https://im-js-in-fm-images.s3.amazonaws.com/npmStart.png)
 
 And now the FileMaker app (go ahead and open it) will see the code in VSCode and will reflect all the changes you write.

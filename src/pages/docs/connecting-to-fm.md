@@ -25,7 +25,7 @@ To prep the client file for this environment, do four things:
 Now start up the dev server by higging that toggle and then load the web viewer (make sure the dev server in the editor is running). Now, what you're typing in the code editor will show up in the web viewer in your client file.
 
 Here's a video showing how this is done.
-[![Play the Connecting Video](/img/Connecting.png)](https://youtu.be/hE90-Sc_hQc)
+[![Play the Connecting Video](https://im-js-in-fm-images.s3.amazonaws.com/Connecting.png)](https://youtu.be/hE90-Sc_hQc)
 
 ## Keep in mind . . .
 

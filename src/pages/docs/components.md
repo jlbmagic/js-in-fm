@@ -15,7 +15,7 @@ Let's look at these files in more detail:
 
 #### ./index.html
 
-![Index HTML](/img/indexhtmlImg.png)
+![Index HTML](https://im-js-in-fm-images.s3.amazonaws.com/indexhtmlImg.png)
 This file is the main file for the web page. It's the file that gets loaded when the user visits the page. It contains links to both external library sources (CDNs) or to local files–those in the `src` folder.
 
 Additionally, the JavaScript is imported from the `index.js` file.
@@ -24,7 +24,7 @@ And finally, the `<body>` tag contains the elements that will be rendered on the
 
 #### ./src/index.js
 
-![Index HTML](/img/src_index_js.png)
+![Index HTML](https://im-js-in-fm-images.s3.amazonaws.com/src_index_js.png)
 The magic happens in this file. All the functionality you wish to build is in here.
 
 If you're working with a JavaScript library, you might import it here; otherwise it is linked to from the `index.html` file.
@@ -35,7 +35,7 @@ This css page is where you'll put all your styles. If you're using a JS library,
 
 ### FileMaker File
 
-![Index HTML](/img/FMFile.png)
+![Index HTML](https://im-js-in-fm-images.s3.amazonaws.com/FMFile.png)
 The FileMaker file that comes with this environment, named JSDev.fmp12, is also pretty basic. It contains enough scripting and layout objects to connect the web viewer to the development server of this setup. Here's what it contains:
 
 1. An HTML table with a few fields and a few layouts
@@ -60,7 +60,7 @@ It's blank by default. The "Load WebViewer" script loads this web viewer with th
 
 #### Scripts
 
-![Index HTML](/img/ScriptWorkspace.png)
+![Index HTML](https://im-js-in-fm-images.s3.amazonaws.com/ScriptWorkspace.png)
 There's only a few scripts as part of this JS Dev file, and you'll eventually want to copy the "Web Viewer Scripts" folder into your own FileMaker file when you're ready to hook up this environment to a client file. Here's a description of the scripts:
 
 1. Load WebViewer: This script is the primary one you'll call each time you want to load the web viewer. It should be called from a button or a script trigger.

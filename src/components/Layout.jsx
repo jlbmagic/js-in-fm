@@ -45,7 +45,10 @@ const navigation = [
   {
     title: 'JS Learning Path',
     links: [
-      { title: 'Learning JavaScript for FileMaker', href: '/docs/learning-js' },
+      {
+        title: 'Learning JavaScript for FileMaker',
+        href: '/docs/learning-path-intro',
+      },
       { title: 'The JS We Use', href: '/docs/js-use' },
     ],
   },

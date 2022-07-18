@@ -3,7 +3,7 @@ title: Why Use the JS Dev Environment
 description: Follow these steps.
 ---
 
-![The JavaScript Development Environment](/img/JS_Dev_Explain.png)
+![The JavaScript Development Environment](https://im-js-in-fm-images.s3.amazonaws.com/JS_Dev_Explain.png)
 
 The JavaScript Development Environment is designed to solve three big problems in JavaScript-for-FileMaker development: Develop, Render, and Deploy. With this set of modern tools, a FileMaker developer has the most efficient method at her fingertips to create a JS widget that solves some problem for her clients.
 
@@ -12,7 +12,7 @@ Here are the three problems this environment solves.
 ## Develop
 
 This environment allows you to develop JavaScript easily by using a proper code editor. You can use all of that app's features to write the JS: auto-indenting, formatting, type-ahead, error-checking, etc.
-![The JavaScript Development Environment](/img/indexhtmlImg.png)
+![The JavaScript Development Environment](https://im-js-in-fm-images.s3.amazonaws.com/indexhtmlImg.png)
 
 In this proper code editor, a FileMaker developer can focus her thoughts on the code.
 
@@ -20,14 +20,14 @@ In this proper code editor, a FileMaker developer can focus her thoughts on the 
 
 While coding in a code editor, the FileMaker developer can see the results of her work over in the FileMaker web viewer object. After saving the files inside the code editor and pressing the "Load Webviewer" button, the results will show up.
 
-![The code being rendered](/img/After.png)
+![The code being rendered](https://im-js-in-fm-images.s3.amazonaws.com/After.png)
 
 It is so much easier to see the results of the code in another app, and seeing the render update while typing. It's like having a layout mode to the left and a browse mode to the right on your screen. This is how web developers work all the time, and we are able to replicate that using this environment.
 
 ## Deploy
 
 Once she's done writing her code, the FileMaker developer can easily deploy the code into the FileMaker file for all people to use. Previously this was a laborious task. With this environment, she is able to deploy and redeploy as often as possible.
-![The code being deployed](/img/deploy.png)
+![The code being deployed](https://im-js-in-fm-images.s3.amazonaws.com/deploy.png)
 
 Again, web developers are used to this. After I'm finished writing this document, I'll deploy it to the host where it will be available for anyone to read. So too can we do this using this environment.
 

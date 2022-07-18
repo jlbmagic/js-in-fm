@@ -47,17 +47,55 @@ There's a lot to know about [VSCode](https://code.visualstudio.com/). We could s
 - [10 Features of VSCode Every Developer Should Know](https://blog.cloudanalogy.com/10-features-of-vs-code-every-developer-should-know/)]
 - [VS Code Top-Ten Pro Tips](https://www.youtube.com/watch?v=u21W_tfPVrY)
 
-## A bit more detail
+### Components of VSCode
 
 This environment is built to utilize what VSCode offers. So here is a brief walk through of the main sections that are used all the time.
 
-### The File Explorer
+NOTE: in the images here, the panels are on the right side. Yours will probably be on the left (that is the default). You can update it if you like.
 
-### Track Changes
+#### The File Explorer
 
-### The Terminal
+The file explore section shows the entire structure of the repository's directory.
 
-### Extensions
+![The File Explorer](https://im-js-in-fm-images.s3.amazonaws.com/vscodeFileExplorer.png)
+
+- Starting at the top you see the name of the repo with the open arrow.
+- Inside this director are all the folders and files.
+- You can click on a file to open it in the code editor portion.
+- You can also drag a file from the Explorer to the editor portion, and in doing so determine where in the space it goes.
+- You can drag external files into this structure using this panel.
+- Installing the Extension "Open in Application" allows you to right-click on a file–say the jsDev.fmp12 file–and open it in the file's default app.
+
+This panel also contains a few other sections: Outline, Timeline, and NPM Scripts
+
+- If the NPM Scripts panel isn't active, you can make it so by going to Preferences / Settings and searching for NPM Scripts". Enable this option.
+- The Outline panel is useful as it lays out the structure of each file, showing you where objects, functions, headings, and much more are located without all the extra code.
+
+#### Track Changes
+
+This panel contains a lot of good information about how the files have changed over time.
+![Track Changes](https://im-js-in-fm-images.s3.amazonaws.com/vscodeChanges.png)
+
+In this panel you can:
+
+- view what files have had changes made in them since the last commit.
+- save changes as one commit, writing a commit message.
+- undo the changes you made to one or many files.
+- see the file history
+- see the branches associated with this repository
+- see and link to the remote url.
+
+There's a lot here, and we'll have to get into more over time. For now the most useful section is the "Source Control" part of this panel.
+
+#### Search
+
+VSCode allows you to search or search & replace acaross all the files. This panel gives you that functionality. It's useful when finding a function or variable or component.
+![The File Explorer](https://im-js-in-fm-images.s3.amazonaws.com/vscodeSearch.png)
+
+#### Extensions
+
+The Extensions panel allows you to add a ton of functionality to your workspace.
+![Extensions](https://im-js-in-fm-images.s3.amazonaws.com/vscodeExtensions.png)
 
 VSCode is full of community-written extensions that give the developer a better user experience. Here's a list of extensions that I use, though there's a ton more.
 
@@ -77,4 +115,11 @@ Here's a cool one written by Josh Willing: [FileMaker VSCode](https://marketplac
 
 There's a ton more, and I'll probably add more here.
 
-## Other Services
+#### The Terminal
+
+![Extensions](https://im-js-in-fm-images.s3.amazonaws.com/vscodeTerminal.png)
+
+#### Preferences / Settings
+
+Everything in VSCode can be adjusted. In the Preferences / Settings section you can use the interface to toggle or change values of many different settings. Check this out, explore it and see what you can change. I might make a suggestion or two along the way.
+![Extensions](https://im-js-in-fm-images.s3.amazonaws.com/vscodeSettings.png)

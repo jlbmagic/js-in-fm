@@ -28,7 +28,7 @@ If your computer has Git and Node.js installed on it already, and if you're fami
 
 ### Get the template
 
-The JS Dev Environment is found here. Create a new repository in your Github account from this template and then clone it to your machine. Install it with the following command:
+The JS Dev Environment is found [here](https://github.com/integrating-magic/js-dev-environment). Use this template to create a new repository to your Github account, and then clone it to your machine. Install it with the following command:
 
 ```shell
 npm install

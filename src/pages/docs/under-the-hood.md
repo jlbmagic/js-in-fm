@@ -16,7 +16,7 @@ Read more about Parcel. It's pretty awesome.
 
 ## Package.json
 
-![Index HTML](/img/packagejson.png)
+![Index HTML](https://im-js-in-fm-images.s3.amazonaws.com/packagejson.png)
 This package.json file is what makes this whole repository work. It contains information about the project such as author, version, description, and my email.
 
 ### scripts

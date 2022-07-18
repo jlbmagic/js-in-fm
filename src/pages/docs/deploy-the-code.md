@@ -17,12 +17,12 @@ Remember that the `UploadHTML` script will run during this process (triggered by
 Finally, prepare the file to have this script run by the dev environment. In Advanced Settings of Manage Security, update the extended privileges of each privilege set that will deploy the code. Likely just the `Full Access` account is necessary.
 Toggle the extended privilege "fmurlscript".
 
-![Toggle the extended privilege](/img/fmurlscript.png)
+![Toggle the extended privilege](https://im-js-in-fm-images.s3.amazonaws.com/fmurlscript.png)
 
 ## Stop the server
 
 In VSCode stop the development server from running by pressing `control + C` in the Terminal. (If the Terminal window isn't showing, type `control + tilda` to open the Terminal.)
-![Stopped server](/img/stoppedServer.png)
+![Stopped server](https://im-js-in-fm-images.s3.amazonaws.com/stoppedServer.png)
 
 ## Run the command
 
