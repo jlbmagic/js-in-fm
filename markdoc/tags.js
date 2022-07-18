@@ -1,6 +1,6 @@
 import { Callout } from '@/components/Callout'
 import { QuickLink, QuickLinks } from '@/components/QuickLinks'
-
+import { YouTube } from '@/components/YouTube'
 const tags = {
   callout: {
     attributes: {
@@ -31,6 +31,9 @@ const tags = {
   },
   'quick-links': {
     render: QuickLinks,
+  },
+  'youTube-video': {
+    render: YouTube,
   },
   'quick-link': {
     selfClosing: true,

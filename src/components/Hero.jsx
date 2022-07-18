@@ -61,9 +61,13 @@ export function Hero() {
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
                 <Button href="/">Get started</Button>
-                {/* <Button href="/" variant="secondary">
-                  View on GitHub
-                </Button> */}
+                <Button
+                  target="_blank"
+                  href="https://community.jsinfm.com/home"
+                  variant="secondary"
+                >
+                  Join the Community
+                </Button>
               </div>
             </div>
           </div>

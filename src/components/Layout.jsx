@@ -16,7 +16,7 @@ const navigation = [
     title: 'Introduction',
     links: [
       { title: 'Getting started', href: '/' },
-      // { title: 'The Purpose', href: '/docs/installation' },
+      { title: 'Why use this environment', href: '/docs/purpose-of-dev-env' },
     ],
   },
   {
@@ -35,6 +35,10 @@ const navigation = [
       { title: 'Rendering the Code', href: '/docs/render-in-realtime' },
       { title: 'Deploying the Code', href: '/docs/deploy-the-code' },
       { title: 'The Modern Tools in Use', href: '/docs/the-modern-tools' },
+      {
+        title: 'Under the Hood: What Makes all this Work',
+        href: '/docs/under-the-hood',
+      },
     ],
   },
   {

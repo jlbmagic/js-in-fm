@@ -8,13 +8,13 @@ Learn all about building JavaScript widgets for FileMaker {% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Preparing Your Machine" icon="installation" href="/" description="Get your computer set up to use this environment." /%}
+{% quick-link title="Preparing Your Machine" icon="installation" href="/docs/before-begin" description="Get your computer set up to use this environment." /%}
 
-{% quick-link title="The JS Dev Environment" icon="presets" href="/" description="Develop, Render, and Deploy Fil" /%}
+{% quick-link title="The JS Dev Environment" icon="presets" href="/docs/indepth-process" description="Develop, Render, and Deploy Fil" /%}
 
 {% quick-link title="Working with Libraries" icon="plugins" href="/" description="Review patterns of code and thought, and see good examples of working with Libraries." /%}
 
-{% quick-link title="JS Learning Path" icon="theming" href="/" description="Explore what in the JS language to learn." /%}
+{% quick-link title="JS Learning Path" icon="theming" href="/docs-learning-path-intro" description="Explore what in the JS language to learn." /%}
 
 {% /quick-links %}
 
@@ -24,9 +24,9 @@ Explore all that can be done with JavaScript in FileMaker.
 
 ## Quick start
 
-If your computer has Git and Node.js installed on it already, and if you're familiar with Visual Studio Code, then jump right on down to installing and using the JS Dev Environment.
+If your computer has Git and Node.js installed on it already, and if you're familiar with Visual Studio Code, then jump right on down to installing and using the JS Dev Environment. Don't worry if you don't have everything set up. The pages in this documentation will clarify things and help you get set up.
 
-### Get the Template
+### Get the template
 
 The JS Dev Environment is found here. Create a new repository in your Github account from this template and then clone it to your machine. Install it with the following command:
 
