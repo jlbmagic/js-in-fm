@@ -41,6 +41,27 @@ const navigation = [
       },
     ],
   },
+
+  {
+    title: 'JS Learning Path',
+    links: [
+      { title: 'Learning JavaScript for FileMaker', href: '/docs/learning-js' },
+      { title: 'The JS We Use', href: '/docs/js-use' },
+    ],
+  },
+  {
+    title: 'Using JS in FM',
+    links: [
+      { title: 'Introduction', href: '/docs/using-js-in-fm' },
+      { title: 'Libraries', href: '/docs/libraries' },
+      { title: 'Use Case Examples', href: '/docs/use-cases' },
+      {
+        title: 'The Web Viewer as a Calc Engine',
+        href: '/docs/web-viewer-calc-engine',
+      },
+    ],
+  },
+
   {
     title: 'Advanced Topics',
     links: [
@@ -53,19 +74,6 @@ const navigation = [
         href: '/docs/multiple-data-sources',
       },
       { title: 'Web Viewer Quirks', href: '/docs/webviewer-quirks' },
-    ],
-  },
-  {
-    title: 'JS Learning Path',
-    links: [
-      { title: 'Learning JavaScript for FileMaker', href: '/docs/learning-js' },
-      { title: 'The JS We Use', href: '/docs/js-use' },
-      { title: 'Libraries', href: '/docs/libraries' },
-      { title: 'Use Case Examples', href: '/docs/use-cases' },
-      {
-        title: 'The Web Viewer as a Calc Engine',
-        href: '/docs/web-viewer-calc-engine',
-      },
     ],
   },
   {

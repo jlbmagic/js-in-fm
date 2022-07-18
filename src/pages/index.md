@@ -8,13 +8,13 @@ Learn all about building JavaScript widgets for FileMaker {% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Preparing Your Machine" icon="installation" href="/docs/before-begin" description="Get your computer set up to use this environment." /%}
-
 {% quick-link title="The JS Dev Environment" icon="presets" href="/docs/indepth-process" description="Develop, Render, and Deploy Fil" /%}
 
-{% quick-link title="Working with Libraries" icon="plugins" href="/" description="Review patterns of code and thought, and see good examples of working with Libraries." /%}
+{% quick-link title="Preparing Your Machine" icon="installation" href="/docs/before-begin" description="Get your computer set up to use this environment." /%}
 
-{% quick-link title="JS Learning Path" icon="theming" href="/docs-learning-path-intro" description="Explore what in the JS language to learn." /%}
+{% quick-link title="JS Learning Path" icon="theming" href="/docs/learning-path-intro" description="Explore what in the JS language to learn." /%}
+
+{% quick-link title="Working with JS in FM" icon="plugins" href="/docs/using-js-in-fm" description="Review how to work with JS in FM" /%}
 
 {% /quick-links %}
 
