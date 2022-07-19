@@ -48,7 +48,7 @@ The other scripts are not really necessary. The `openfile` script should open th
 
 ### dependencies
 
-In this starter dev environment, there are no dependences. But as soon as we install packages such as C3 or Datatables, the list of those will go in this property. When the code is bundled and deployed into FileMaker, libraries we're using (as part of the `import` process) from here will be part of the inlined code.
+In this starter dev environment, there are no dependencies. But as soon as we install packages such as C3 or Datatables, the list of those will go in this property. When the code is bundled and deployed into FileMaker, libraries we're using (as part of the `import` process) from here will be part of the inlined code.
 
 ### devDependencies
 

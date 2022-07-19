@@ -60,4 +60,4 @@ Most web developers don't care about this, but we do. Ultimately this code will 
 
 1. Make sure you have updated line 4 in the `upload.js` file in the code base.
 2. Make sure the HTML table doesn't have any open records.
-3.
+3. There should be one record in the HTML table. (If you don't, the script will fail.).
