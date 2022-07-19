@@ -14,7 +14,7 @@ Start by getting the [repository](https://github.com/integrating-magic/js-dev-en
 Here's how to do this:
 
 1. Go to the environment's repository link.
-2. Click on the "Use This Template" button.
+2. Click on the "Use This Template" button (make sure you're signed into your Github account).
    - This process will ask you to save the repository to your own Github account. Fill in the relevant information (see [here](intro/misc/what-is-repo.mdx) for more details), and then let the process work.
 
 First, fill out the information here. There's no spaces in a repo, name, so use camel case or hypens (I prefer the latter for repo names).

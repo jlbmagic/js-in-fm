@@ -56,12 +56,13 @@ const navigation = [
     title: 'Using JS in FM',
     links: [
       { title: 'Introduction', href: '/docs/using-js-in-fm' },
-      { title: 'Libraries', href: '/docs/libraries' },
-      { title: 'Use Case Examples', href: '/docs/use-cases' },
-      {
-        title: 'The Web Viewer as a Calc Engine',
-        href: '/docs/web-viewer-calc-engine',
-      },
+      // { title: 'Libraries', href: '/docs/libraries' },
+      // { title: 'Vanilla JS', href: '/docs/vanilla-js' },
+      // { title: 'Use Case Examples', href: '/docs/use-cases' },
+      // {
+      //   title: 'The Web Viewer as a Calc Engine',
+      //   href: '/docs/web-viewer-calc-engine',
+      // },
     ],
   },
 
@@ -69,14 +70,18 @@ const navigation = [
     title: 'Advanced Topics',
     links: [
       {
-        title: 'Multiple Widgets in an App',
-        href: '/docs/multiple-widgets',
+        title: 'Introduction',
+        href: '/docs/advanced-intro',
       },
-      {
-        title: 'Using Multiple Data Sources',
-        href: '/docs/multiple-data-sources',
-      },
-      { title: 'Web Viewer Quirks', href: '/docs/webviewer-quirks' },
+      // {
+      //   title: 'Multiple Widgets in an App',
+      //   href: '/docs/multiple-widgets',
+      // },
+      // {
+      //   title: 'Using Multiple Data Sources',
+      //   href: '/docs/multiple-data-sources',
+      // },
+      // { title: 'Web Viewer Quirks', href: '/docs/webviewer-quirks' },
     ],
   },
   {

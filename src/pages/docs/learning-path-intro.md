@@ -3,8 +3,6 @@ title: The JS Learning Path
 description: Follow these steps.
 ---
 
-# Introducing the JS Learning Path
-
 FileMaker developers (you) have invested a lot of time into learning FileMaker. After all, they (you) spend most of your time in that platform. You need to know all about schema, security, data types, functions, and so on. There's so much already to know.
 
 JavaScript is another subset of stuff to learn. The problem is that there's a lot of JavaScript out there. People study this language for many years.
