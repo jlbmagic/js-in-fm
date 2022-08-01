@@ -27,27 +27,18 @@ Let that process run after clicking the green button at the bottom. Once you do 
 
 Next, we need to clone the repository. That is, we need to get all the code down from GitHub to your local machine will keeping a link between the local and remote. To do that, click on the "Code" button and click the clipboard icon. We'll use that copied URL in the next section.
 
-Let's do some work now in Terminal (keeping that copied URL in mind).
+VSCode makes this process pretty easy. So open the app and follow these steps.
 
-Here's what to do:
+1. In the Start section of the home screen, click "Clone Git Repository"
+   ![Step Two](https://im-js-in-fm-images.s3.amazonaws.com/VScodeFront.png)
+2. A dialog will appear in the top center of the window. Paste the URL there. Confirm the command that's highlighted.
+   ![Step Two](https://im-js-in-fm-images.s3.amazonaws.com/Clone.png)
+3. VSCode will ask you for a location of the repositry. Find a folder for this repo to go into.
+   ![Step Two](https://im-js-in-fm-images.s3.amazonaws.com/location.png)
+4. VSCode will then clone the repo to that location. All of the files on Github in your instance will be transferred to your machine.
+5. Finally, open the repository in VSCode by clicking "Open" in the bottom right.
+   ![Step Two](https://im-js-in-fm-images.s3.amazonaws.com/Open.png)
 
-1. Open Terminal.
-2. Change Directory into a folder where you want this environment to be located. All of the files in that repository will be put into this place.
-   - I've got all my repostories stored in a folder called "JSWork" inside my Documents folder, so the path to the directory looks like this:
-     `cd /users/jeremybrown/documents/jswork`
-3. Now that terminal is in that directory, type `git clone` + space, and then paste the repository URL.
-   - Here's what my line looks like:
-     - `git clone https://github.com/jlbmagic/this-is-my-environment.git`
-   - This will clone the repository from the remote on GitHub to your local machine in that directory.
-   - If this is the first time ever using Git, then you might have to install some git tools.
-     - You might see a message that looks like this:
-       - `The "git" command requires the command line developer tools. Would you like to install.."`
-       - If that's the case, let it happen.
-     - It might take 10 minutes or so.
-     - When this finishes, run the `git clone` command again.
-
-And here is the repsitory on my machine.
-![Step Two](https://im-js-in-fm-images.s3.amazonaws.com/InFolder.png)
 
 ## Reveal the Environment
 
