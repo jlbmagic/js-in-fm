@@ -22,7 +22,7 @@ To prep the client file for this environment, do four things:
 3. Get the objects from the dev environment to your client file. There's three of them: the web viewer, the "Load" script and the toggle button bar. Copy all those things to a new layout in your client file or paste them onto an existing layout. Resize and reposition as necessary.
 4. In the code editor, find the `scripts` folder and the `upload.js` file. On line 4 there, change the name of the file from "JSDev.fmp12" to the file name you've placed this environment into.
 
-Now start up the dev server by higging that toggle and then load the web viewer (make sure the dev server in the editor is running). Now, what you're typing in the code editor will show up in the web viewer in your client file.
+Now start up the dev server by hitting that toggle and then load the web viewer (make sure the dev server in the editor is running). Now, what you're typing in the code editor will show up in the web viewer in your client file.
 
 Here's a video showing how this is done.
 [![Play the Connecting Video](https://im-js-in-fm-images.s3.amazonaws.com/Connecting.png)](https://youtu.be/hE90-Sc_hQc)
