@@ -30,7 +30,7 @@ There's also a `scripts` section that contains the scripts that we'll use to bui
       "browserslist":"> 0.5%, last 2 versions, not dead",
       "build":"parcel build index.html",
       "upload":"node ./scripts/upload",
-      "build:upload":"npm run build && npm run upload",
+      "deploy-to-fm":"npm run build && npm run upload",
       "openfile":"node ./scripts/openFileOnServer",
       "test":"echo \"Error: no test specified\" && exit 1"
    }
@@ -39,10 +39,10 @@ There's also a `scripts` section that contains the scripts that we'll use to bui
 
 Let's review each script.
 
-`start`: This is the script that starts the development server. It's the default script that runs when you run `npm start`.
-`build`: This script builds the application. It's the default script that runs when you run `npm build`.
-`upload`: This script uploads the application FileMaker, causing the "uploadToHTML" FileMaker script to run.
-`build:upload`: This script runs both the `build` and `upload` scripts.
+- `start`: This is the script that starts the development server. It's the default script that runs when you run `npm start`.
+- `build`: This script builds the application. It's the default script that runs when you run `npm build`.
+- `upload`: This script uploads the application FileMaker, causing the "uploadToHTML" FileMaker script to run.
+- `deploy-to-fm (known previously as 'build:upload')`: This script runs both the `build` and `upload` scripts.
 
 The other scripts are not really necessary. The `openfile` script should open the file on the server, but, at present, the actual working code is missing. And `test` is not used. We're not running tests on our code (yet).
 
@@ -52,6 +52,6 @@ In this starter dev environment, there are no dependencies. But as soon as we in
 
 ### devDependencies
 
-Dev Dependencies only are used during the development process. Parcel is one of those. These libraries are _not_ packaged up when you run `npm build:upload`. and deploy the code to FileMaker.
+Dev Dependencies only are used during the development process. Parcel is one of those. These libraries are _not_ packaged up when you run `npm deploy-to-fm (known previously as 'build:upload')`. and deploy the code to FileMaker.
 
 We'll add more to this list as we go along.

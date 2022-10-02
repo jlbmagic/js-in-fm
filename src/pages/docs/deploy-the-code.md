@@ -29,7 +29,7 @@ In VSCode stop the development server from running by pressing `control + C` in 
 In the terminal type the following:
 
 ```bash
-npm run build:upload
+npm run deploy-to-fm (known previously as 'build:upload')
 ```
 
 After a few seconds FileMaker will confirm to you that the code was uploaded to the correct field.
