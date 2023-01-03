@@ -91,7 +91,7 @@ JavaScript has a robust set of operators that we use to make assignments or do c
 - [++ (Increment)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment)
 - [-- (Decrement)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Decrement)
 
-### Comparisons
+n### Comparisons
 
 - [=== (Equality)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)
 - [!== (Inequality)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_inequality)
