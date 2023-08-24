@@ -14,7 +14,7 @@ The repository is made up of a few JS libraries that do the work for us, giving 
 
 Read more about Parcel. It's pretty awesome.
 
-## Package.json
+## package.json
 
 ![Index HTML](https://im-js-in-fm-images.s3.amazonaws.com/packagejson.png)
 This package.json file is what makes this whole repository work. It contains information about the project such as author, version, description, and my email.
@@ -54,4 +54,8 @@ In this starter dev environment, there are no dependencies. But as soon as we in
 
 Dev Dependencies only are used during the development process. Parcel is one of those. These libraries are _not_ packaged up when you run `npm deploy-to-fm (known previously as 'build:upload')`. and deploy the code to FileMaker.
 
-We'll add more to this list as we go along.
+## widget.config.js
+This file is a simple (for now) place to set up a configuration for this widget and its use. 
+![widget.config.js](https://im-js-in-fm-images.s3.amazonaws.com/configjs.png)
+The two items you need to update are the `widgetName` and the `file`. Both of these are unique to you.
+The `widgetName` property in the  object determine in which record the widget is stored in the FileMaker file. The "UploadToHTML" script will receive the value from this property and go and try to find a record with that value in the "Name" field in the HTML table. If it finds the record, the code is updated. If it doesn't find a record, it creates one.

@@ -65,6 +65,12 @@ Now that the environment has been revealed, we need to install it on our machine
 ![Package JSON](https://im-js-in-fm-images.s3.amazonaws.com/packageFile.png)
 Now, the enviornment is installed. We can now start it up (one more step) and then use it.
 
+## Configure the Widget
+
+Inside the  `widget.config.js` file, update the widget name to match what you are building. The name of the widget will eventually be deployed to FileMaker inside the "HTML" table, and will identify each widget uniquely. You can learn more about this file in [Under the Hood](/docs/under-the-hood.mdx). But for now, update the widget name and the file name from the defaults of "jsDev".
+
+![config.js](https://im-js-in-fm-images.s3.amazonaws.com/configjs.png)
+
 ## Start up the Development Server
 
 For this to work, we need to run a development server. So, in the terminal, let's type `npm start`. This command will

@@ -7,7 +7,7 @@ FileMaker developers (you) have invested a lot of time into learning FileMaker. 
 
 JavaScript is another subset of stuff to learn. The problem is that there's a lot of JavaScript out there. People study this language for many years.
 
-FileMaker developers can feel overwhelmed about what's in the JS language. FileMaker developers feel like they have to learn all of the langauage to have any chance of being able to use it in FileMaker.
+FileMaker developers can feel overwhelmed about what's in the JS language. FileMaker developers feel like they have to learn all of the language to have any chance of being able to use it in FileMaker.
 
 Luckily that isn't the case. With just a little bit of time, study, and the correct path, you can learn what in the JS langauge will help you right away build great solutions to problems.
 
