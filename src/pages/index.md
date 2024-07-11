@@ -131,4 +131,4 @@ If you would like to make a change to the environment, please clone the source, 
 
 ### Join the community
 
-There's a great community working with this environment. The [JS in FM Community]("https://community.jsinfm.com/home") is the place to discuss this environment and to ask for help. So join the community and be part of this ever-growing group.
+There's a great community working with this environment. The [JS in FM Community](https://community.jsinfm.com/home) is the place to discuss this environment and to ask for help. So join the community and be part of this ever-growing group.
