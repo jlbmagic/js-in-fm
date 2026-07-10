@@ -16,6 +16,8 @@ Learn all about building JavaScript widgets for FileMaker {% .lead %}
 
 {% quick-link title="Working with JS in FM" icon="plugins" href="/docs/using-js-in-fm" description="Review how to work with JS in FM" /%}
 
+{% quick-link title="Getting Data Into the Web Viewer" icon="lightbulb" href="/docs/getting-data-into-web-viewer" description="Explore practical data-loading questions, patterns, and examples." /%}
+
 {% /quick-links %}
 
 Explore all that can be done with JavaScript in FileMaker.

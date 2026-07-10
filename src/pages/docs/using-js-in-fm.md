@@ -7,6 +7,8 @@ There's a lot that we can do with JavaScript in FileMaker. Of course it comes do
 
 This sections speaks on what we can do with the langauge in FileMaker. We don't cover any technical stuff here; it's more of an inspiring kind of documentation :)
 
+If you want to go deeper into practical data-loading patterns, read [Getting Data Into the Web Viewer](/docs/getting-data-into-web-viewer).
+
 ## Upcoming Content
 
 In this section we'll discuss the following topics:

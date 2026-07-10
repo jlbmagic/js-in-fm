@@ -60,6 +60,14 @@ const navigation = [
     title: 'Using JS in FM',
     links: [
       { title: 'Introduction', href: '/docs/using-js-in-fm' },
+      {
+        title: 'Getting Data Into the Web Viewer',
+        href: '/docs/getting-data-into-web-viewer',
+      },
+      {
+        title: 'Data Gathering Reference',
+        href: '/docs/data-gathering-reference',
+      },
       // { title: 'Libraries', href: '/docs/libraries' },
       // { title: 'Vanilla JS', href: '/docs/vanilla-js' },
       // { title: 'Use Case Examples', href: '/docs/use-cases' },
