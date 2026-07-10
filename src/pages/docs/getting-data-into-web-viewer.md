@@ -33,7 +33,6 @@ Example coming soon.
 
 ### Images
 
-Add screenshots here.
 
 ### Inform Your Intelligence
 
@@ -57,7 +56,6 @@ Example coming soon.
 
 ### Images
 
-Add screenshots here.
 
 ### Inform Your Intelligence
 
